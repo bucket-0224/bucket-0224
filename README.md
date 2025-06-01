@@ -14,7 +14,7 @@
 </a>
 
 - 😄 I'm Full Stack Developer.
-- 💬 And I'm now working on Corp. Univa.
+- 💬 And I'm studying in Gachon Univ. ( Computer Engineering )
 - 🖥️ I'm interesting on Clean-Architecture, Dependency Injection.
 
 &nbsp;
