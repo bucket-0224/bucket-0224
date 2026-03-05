@@ -26,7 +26,7 @@
 
 
 #### I'm already on my stack :
-<a href='#'><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white"></a> <a href='#'><img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white"></a> <a href='#'><img src="https://img.shields.io/badge/Dart-0175C2?&style=for-the-badge&logo=Dart&logoColor=white"></a> <a href='#'><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"></a> <a href='#'><img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white"></a> 
+<a href='#'><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a> <a href='#'><img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white"></a> <a href='#'><img src="https://img.shields.io/badge/Dart-0175C2?&style=for-the-badge&logo=Dart&logoColor=white"></a> <a href='#'><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"></a> <a href='#'><img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white"></a> 
 
 
 #### My using Framework :
