@@ -17,6 +17,9 @@
 - 💬 And I'm studying in Gachon Univ. ( Computer Engineering )
 - 🖥️ I'm interesting on Clean-Architecture, Dependency Injection.
 
+&nbsp;
+&nbsp;
+
 #### Here is posting that I records when i learning new things or something.
 
 <a href='https://velog.io/@bucket-0224/posts'><img src="https://img.shields.io/badge/Velog-78C7A9?style=for-the-badge&logo=velog&logoColor=white"></a>
