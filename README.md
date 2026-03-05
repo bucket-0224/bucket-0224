@@ -19,7 +19,7 @@
 
 #### Here is posting that I records when i learning new things or something.
 
-<a href='#'><img src="https://img.shields.io/badge/Velog-ED8B00?style=for-the-badge&logo=Java&logoColor=white"></a>
+<a href='#'><img src="https://img.shields.io/badge/Velog-ED8B00?style=for-the-badge&logo=velog&logoColor=white"></a>
 
 &nbsp;
 &nbsp;
