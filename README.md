@@ -20,7 +20,7 @@
 &nbsp;
 &nbsp;
 
-#### Here is posting that I records when i learning new things or something.
+#### Here are the posts I recorded when I learned something new.
 
 <a href='https://velog.io/@bucket-0224/posts'><img src="https://img.shields.io/badge/Velog-78C7A9?style=for-the-badge&logo=velog&logoColor=white"></a>
 
