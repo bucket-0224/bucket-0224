@@ -19,7 +19,7 @@
 
 #### Here is posting that I records when i learning new things or something.
 
-<a href='#'><img src="https://img.shields.io/badge/Velog-78C7A9?style=for-the-badge&logo=velog&logoColor=white">https://velog.io/@bucket-0224/posts</a>
+<a href='https://velog.io/@bucket-0224/posts'><img src="https://img.shields.io/badge/Velog-78C7A9?style=for-the-badge&logo=velog&logoColor=white"></a>
 
 &nbsp;
 &nbsp;
